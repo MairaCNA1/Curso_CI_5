@@ -1,0 +1,12 @@
+# Docker
+*.log
+
+# Binários
+main
+
+# Ambiente
+.env
+
+# SO
+.DS_Store
+Thumbs.db
